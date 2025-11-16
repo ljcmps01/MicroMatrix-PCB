@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Matrix Driver")
-		(date "2025-04-19")
-		(rev "0.1")
+		(date "2025-11-16")
+		(rev "V0.0.2.2-dirty")
 		(company "ARC Maker")
 	)
 	(lib_symbols
@@ -2879,7 +2879,7 @@
 	)
 	(rectangle
 		(start 148.59 53.34)
-		(end 281.94 134.62)
+		(end 281.94 143.51)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2903,7 +2903,7 @@
 	)
 	(text "(CR2032)"
 		(exclude_from_sim no)
-		(at 158.242 15.494 0)
+		(at 159.258 18.034 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -2924,7 +2924,7 @@
 	)
 	(text "Placa Bottom con micro controlador de matriz led 8x8\nPB8 tiene un led conectado para hacer un latido de corazon\nPF0 y PF1 tienen boton de usuario para conectar sensores binarios"
 		(exclude_from_sim no)
-		(at 148.336 138.938 0)
+		(at 149.352 138.938 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2945,7 +2945,7 @@
 	)
 	(text "Microcontroller"
 		(exclude_from_sim no)
-		(at 155.702 52.07 0)
+		(at 155.702 55.118 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2957,7 +2957,7 @@
 	)
 	(text "(and IO)"
 		(exclude_from_sim no)
-		(at 167.386 52.07 0)
+		(at 167.64 55.118 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2967,7 +2967,7 @@
 	)
 	(text "Matriz Led 8x8"
 		(exclude_from_sim no)
-		(at 24.892 51.562 0)
+		(at 25.146 55.118 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3009,7 +3009,7 @@
 	)
 	(text "POWER"
 		(exclude_from_sim no)
-		(at 151.13 15.494 0)
+		(at 152.146 18.034 0)
 		(effects
 			(font
 				(size 1.27 1.27)
