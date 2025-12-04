@@ -68,6 +68,8 @@ def get_git_info(repo_dir):
             stderr=subprocess.DEVNULL
         ).decode().strip():
             status= 'dirty'
+        else:
+            status = 'clean'
         
         return revision, status, commit_date, branch
         
