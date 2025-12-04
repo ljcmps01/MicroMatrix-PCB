@@ -651,5 +651,10 @@
       "Root"
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "BRANCH": "master",
+    "BUILD_DATE": "2025-11-16",
+    "STATUS": "dirty",
+    "VERSION": "V0.0.2.3"
+  }
 }

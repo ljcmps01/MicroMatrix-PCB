@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Matrix Driver")
-		(date "2025-11-16")
-		(rev "V0.0.2.2-dirty")
+		(date "${BUILD_DATE}")
+		(rev "${VERSION}")
 		(company "ARC Maker")
 	)
 	(lib_symbols
