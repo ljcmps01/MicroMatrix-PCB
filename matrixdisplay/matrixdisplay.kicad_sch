@@ -3170,7 +3170,7 @@
 		(uuid "2e87a45f-e8c0-48d5-86a3-b7ed072de7d5")
 	)
 	(junction
-		(at 195.58 62.23)
+		(at 208.28 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30902437-4953-413f-a54b-bd93a1590b34")
@@ -3264,6 +3264,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "56e32b03-c478-49e4-82fd-0a29dc076371")
+	)
+	(junction
+		(at 189.23 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "598674dd-b668-4a07-8468-0bf39d8aebed")
 	)
 	(junction
 		(at 48.26 100.33)
@@ -3458,7 +3464,7 @@
 		(uuid "98e1b873-8dc4-4b9b-9233-f567b7d996d2")
 	)
 	(junction
-		(at 189.23 71.12)
+		(at 201.93 71.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9a6e35d5-1b38-4eb6-9456-12e0af72e98a")
@@ -3738,7 +3744,7 @@
 		(uuid "39f54998-e5f2-4245-979b-05ff9513f185")
 	)
 	(no_connect
-		(at 170.18 113.03)
+		(at 189.23 96.52)
 		(uuid "3b2d50a1-652f-41a8-9db9-1b024763243f")
 	)
 	(no_connect
@@ -3750,7 +3756,7 @@
 		(uuid "44c61131-90cb-4118-aa5b-5be2de7834a0")
 	)
 	(no_connect
-		(at 170.18 99.06)
+		(at 175.26 96.52)
 		(uuid "93b9cc5a-8bf2-497e-bcd3-0771e8ca2674")
 	)
 	(no_connect
@@ -3893,7 +3899,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 78.74) (xy 233.68 78.74)
+			(xy 233.68 78.74) (xy 234.95 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3913,7 +3919,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 69.85) (xy 184.15 71.12)
+			(xy 196.85 69.85) (xy 196.85 71.12)
 		)
 		(stroke
 			(width 0)
@@ -3943,7 +3949,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 91.44) (xy 203.2 91.44)
+			(xy 185.42 91.44) (xy 203.2 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3983,7 +3989,7 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 91.44) (xy 233.68 91.44)
+			(xy 233.68 91.44) (xy 234.95 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4063,16 +4069,6 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 77.47) (xy 238.76 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "18446464-c7b8-4b61-82f5-2858ca57c33c")
-	)
-	(wire
-		(pts
 			(xy 58.42 124.46) (xy 58.42 115.57)
 		)
 		(stroke
@@ -4123,26 +4119,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 114.3) (xy 251.46 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "209e5d77-0992-4fd6-9b38-cf7470b40325")
-	)
-	(wire
-		(pts
-			(xy 175.26 109.22) (xy 179.07 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "260db89b-6623-43d3-b936-59182ea2afb2")
-	)
-	(wire
-		(pts
 			(xy 78.74 115.57) (xy 78.74 118.11)
 		)
 		(stroke
@@ -4173,7 +4149,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 71.12) (xy 189.23 71.12)
+			(xy 208.28 71.12) (xy 201.93 71.12)
 		)
 		(stroke
 			(width 0)
@@ -4233,16 +4209,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 116.84) (xy 251.46 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2c6179c6-6292-443c-bb42-3bef793b86e0")
-	)
-	(wire
-		(pts
 			(xy 184.15 118.11) (xy 184.15 116.84)
 		)
 		(stroke
@@ -4283,16 +4249,6 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 92.71) (xy 251.46 92.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2f276328-d41c-45e0-bb64-cf18e6f3457c")
-	)
-	(wire
-		(pts
 			(xy 101.6 111.76) (xy 101.6 115.57)
 		)
 		(stroke
@@ -4310,16 +4266,6 @@
 			(type default)
 		)
 		(uuid "3091d94a-468c-4035-bb48-4919919c1283")
-	)
-	(wire
-		(pts
-			(xy 247.65 95.25) (xy 247.65 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "31451fc0-3231-45c5-af30-aaeb5ebdfeb4")
 	)
 	(wire
 		(pts
@@ -4373,7 +4319,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 93.98) (xy 233.68 93.98)
+			(xy 233.68 93.98) (xy 234.95 93.98)
 		)
 		(stroke
 			(width 0)
@@ -4410,16 +4356,6 @@
 			(type default)
 		)
 		(uuid "33a8a481-0217-4a46-9811-6945d3dddfa7")
-	)
-	(wire
-		(pts
-			(xy 243.84 87.63) (xy 251.46 87.63)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "344a2f75-ea53-4b8f-b968-0845f03abd27")
 	)
 	(wire
 		(pts
@@ -4493,16 +4429,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 95.25) (xy 163.83 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "390f802a-5f58-4fd1-a27d-01096a075bb5")
-	)
-	(wire
-		(pts
 			(xy 78.74 69.85) (xy 78.74 77.47)
 		)
 		(stroke
@@ -4510,16 +4436,6 @@
 			(type default)
 		)
 		(uuid "393a0c0e-55d0-4ecd-8713-8dd8e270c179")
-	)
-	(wire
-		(pts
-			(xy 246.38 92.71) (xy 246.38 93.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3c1d9be8-2b29-481a-9f72-b9e4d8d885d5")
 	)
 	(wire
 		(pts
@@ -4583,16 +4499,6 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 83.82) (xy 190.5 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40b14c7f-bb57-44c6-a0a1-1d12308722e2")
-	)
-	(wire
-		(pts
 			(xy 60.96 66.04) (xy 71.12 66.04)
 		)
 		(stroke
@@ -4633,7 +4539,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 111.76) (xy 250.19 110.49)
+			(xy 250.19 109.22) (xy 250.19 107.95)
 		)
 		(stroke
 			(width 0)
@@ -4653,6 +4559,16 @@
 	)
 	(wire
 		(pts
+			(xy 189.23 83.82) (xy 190.5 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45f78ebc-f4ab-4f80-8f92-af57873a8bdd")
+	)
+	(wire
+		(pts
 			(xy 50.8 104.14) (xy 60.96 104.14)
 		)
 		(stroke
@@ -4660,16 +4576,6 @@
 			(type default)
 		)
 		(uuid "4647bfbf-3d51-41e3-809b-ddfaf68367ea")
-	)
-	(wire
-		(pts
-			(xy 179.07 109.22) (xy 179.07 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47c8dc3d-74e5-4a1c-bc16-357ba3e3c70d")
 	)
 	(wire
 		(pts
@@ -4703,6 +4609,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 101.6) (xy 171.45 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49cf9039-d1b4-4004-a34e-190c53c7573c")
+	)
+	(wire
+		(pts
 			(xy 91.44 96.52) (xy 91.44 100.33)
 		)
 		(stroke
@@ -4710,16 +4626,6 @@
 			(type default)
 		)
 		(uuid "4a1023a7-195e-419a-a8d5-9691c7934c16")
-	)
-	(wire
-		(pts
-			(xy 184.15 86.36) (xy 184.15 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4a313c60-dc32-4489-afb0-4caf7eb44fe3")
 	)
 	(wire
 		(pts
@@ -4733,7 +4639,7 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 86.36) (xy 233.68 86.36)
+			(xy 233.68 86.36) (xy 234.95 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4833,16 +4739,6 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 87.63) (xy 243.84 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "563f05bb-bfd4-4fe8-8621-78c51f86cffc")
-	)
-	(wire
-		(pts
 			(xy 81.28 55.88) (xy 91.44 55.88)
 		)
 		(stroke
@@ -4873,26 +4769,6 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 95.25) (xy 191.77 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57341a94-bd91-4c20-8957-d06a937148f7")
-	)
-	(wire
-		(pts
-			(xy 240.03 80.01) (xy 251.46 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57b2d39d-aa70-401d-9a69-1031388e64ac")
-	)
-	(wire
-		(pts
 			(xy 99.06 123.19) (xy 99.06 115.57)
 		)
 		(stroke
@@ -4910,26 +4786,6 @@
 			(type default)
 		)
 		(uuid "5a3512ea-4ed3-47bb-a472-7eddd47ebc82")
-	)
-	(wire
-		(pts
-			(xy 246.38 116.84) (xy 246.38 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a3c905e-b61a-406c-a8f5-69caa5989e9e")
-	)
-	(wire
-		(pts
-			(xy 245.11 90.17) (xy 251.46 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5a47c436-e32f-4ae9-a638-8a3ec89ccb77")
 	)
 	(wire
 		(pts
@@ -4953,7 +4809,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 88.9) (xy 233.68 88.9)
+			(xy 233.68 88.9) (xy 234.95 88.9)
 		)
 		(stroke
 			(width 0)
@@ -5000,6 +4856,16 @@
 			(type default)
 		)
 		(uuid "624bd15a-69d7-49de-b766-2cae8de6b3ea")
+	)
+	(wire
+		(pts
+			(xy 171.45 91.44) (xy 171.45 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62a0d6c2-c412-49f9-95e9-bf184948d430")
 	)
 	(wire
 		(pts
@@ -5083,7 +4949,7 @@
 	)
 	(wire
 		(pts
-			(xy 251.46 111.76) (xy 250.19 111.76)
+			(xy 251.46 109.22) (xy 250.19 109.22)
 		)
 		(stroke
 			(width 0)
@@ -5123,16 +4989,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 95.25) (xy 251.46 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6eb0d3e4-84b6-4a05-a13e-2843de167f64")
-	)
-	(wire
-		(pts
 			(xy 48.26 69.85) (xy 48.26 62.23)
 		)
 		(stroke
@@ -5150,6 +5006,16 @@
 			(type default)
 		)
 		(uuid "70f1ace6-ae24-4fb1-97d4-19daa8fc04d3")
+	)
+	(wire
+		(pts
+			(xy 189.23 78.74) (xy 191.77 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71a7744f-538c-4a0b-b31c-11b2ae13a520")
 	)
 	(wire
 		(pts
@@ -5203,7 +5069,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 62.23) (xy 195.58 62.23)
+			(xy 196.85 62.23) (xy 208.28 62.23)
 		)
 		(stroke
 			(width 0)
@@ -5220,16 +5086,6 @@
 			(type default)
 		)
 		(uuid "7548ff96-2b6e-4983-ba64-54f5461e6f60")
-	)
-	(wire
-		(pts
-			(xy 241.3 82.55) (xy 241.3 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "767e0a1f-f607-4b93-b570-12ccb614c4be")
 	)
 	(wire
 		(pts
@@ -5283,7 +5139,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 83.82) (xy 233.68 83.82)
+			(xy 233.68 83.82) (xy 234.95 83.82)
 		)
 		(stroke
 			(width 0)
@@ -5453,16 +5309,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 114.3) (xy 247.65 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8bf0e47c-4afd-4578-8f27-85d3a544773b")
-	)
-	(wire
-		(pts
 			(xy 71.12 88.9) (xy 71.12 92.71)
 		)
 		(stroke
@@ -5473,7 +5319,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 96.52) (xy 233.68 96.52)
+			(xy 233.68 96.52) (xy 234.95 96.52)
 		)
 		(stroke
 			(width 0)
@@ -5483,7 +5329,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 119.38) (xy 251.46 119.38)
+			(xy 250.19 116.84) (xy 251.46 116.84)
 		)
 		(stroke
 			(width 0)
@@ -5523,13 +5369,23 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 120.65) (xy 250.19 119.38)
+			(xy 250.19 118.11) (xy 250.19 116.84)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9167f906-b2c5-49a3-9ee0-d9d8066364ab")
+	)
+	(wire
+		(pts
+			(xy 189.23 78.74) (xy 189.23 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92b3e1b9-9508-4718-a5b4-b5d542b6dfaf")
 	)
 	(wire
 		(pts
@@ -5583,7 +5439,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 81.28) (xy 233.68 81.28)
+			(xy 233.68 81.28) (xy 234.95 81.28)
 		)
 		(stroke
 			(width 0)
@@ -5600,16 +5456,6 @@
 			(type default)
 		)
 		(uuid "985f9619-8a90-4e3b-b003-773cd7975242")
-	)
-	(wire
-		(pts
-			(xy 241.3 82.55) (xy 251.46 82.55)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9877fb99-ec36-4f1d-9aa1-6c78aa332c15")
 	)
 	(wire
 		(pts
@@ -5933,16 +5779,6 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 96.52) (xy 193.04 96.52)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b033269f-a9a9-4fa4-ace9-2580d7e78e3d")
-	)
-	(wire
-		(pts
 			(xy 152.4 24.13) (xy 162.56 24.13)
 		)
 		(stroke
@@ -5950,16 +5786,6 @@
 			(type default)
 		)
 		(uuid "b0641d36-a458-4fd4-8978-3d0071781ff5")
-	)
-	(wire
-		(pts
-			(xy 165.1 109.22) (xy 163.83 109.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b0ecdafa-af74-4546-ae64-c9aee6ae7bc4")
 	)
 	(wire
 		(pts
@@ -6023,7 +5849,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 62.23) (xy 218.44 62.23)
+			(xy 208.28 62.23) (xy 218.44 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6153,13 +5979,13 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 85.09) (xy 251.46 85.09)
+			(xy 171.45 88.9) (xy 203.2 88.9)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "bf0c4335-75b9-481e-90fb-5c75b7c5cf4c")
+		(uuid "bf36a453-12a3-4635-bc42-2abd6714b9bb")
 	)
 	(wire
 		(pts
@@ -6183,7 +6009,7 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 69.85) (xy 195.58 71.12)
+			(xy 208.28 69.85) (xy 208.28 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6253,7 +6079,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 78.74) (xy 203.2 78.74)
+			(xy 199.39 78.74) (xy 203.2 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6343,16 +6169,6 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 80.01) (xy 240.03 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce76a21d-f8fc-472c-8233-4a6691a134b0")
-	)
-	(wire
-		(pts
 			(xy 99.06 77.47) (xy 99.06 69.85)
 		)
 		(stroke
@@ -6373,27 +6189,7 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 95.25) (xy 191.77 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cfe67cfa-5b74-4416-8be1-d56ee7c254ba")
-	)
-	(wire
-		(pts
-			(xy 165.1 95.25) (xy 163.83 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d00364f4-5a31-4a8f-a047-1128a7b30953")
-	)
-	(wire
-		(pts
-			(xy 163.83 109.22) (xy 163.83 114.3)
+			(xy 185.42 101.6) (xy 185.42 104.14)
 		)
 		(stroke
 			(width 0)
@@ -6533,16 +6329,6 @@
 	)
 	(wire
 		(pts
-			(xy 245.11 90.17) (xy 245.11 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e0e226ab-cbc9-4b46-ad55-ed2f9ec1297b")
-	)
-	(wire
-		(pts
 			(xy 91.44 66.04) (xy 91.44 69.85)
 		)
 		(stroke
@@ -6550,16 +6336,6 @@
 			(type default)
 		)
 		(uuid "e12a4431-c458-439a-844c-02c4291d63e7")
-	)
-	(wire
-		(pts
-			(xy 191.77 88.9) (xy 203.2 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e31ff17c-5b1d-4f7f-aac4-2a2a14d7301b")
 	)
 	(wire
 		(pts
@@ -6573,7 +6349,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 83.82) (xy 189.23 88.9)
+			(xy 189.23 83.82) (xy 189.23 85.09)
 		)
 		(stroke
 			(width 0)
@@ -6643,16 +6419,6 @@
 	)
 	(wire
 		(pts
-			(xy 242.57 85.09) (xy 242.57 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e87c999e-f55e-4fcc-92b6-b13abd495252")
-	)
-	(wire
-		(pts
 			(xy 88.9 115.57) (xy 88.9 107.95)
 		)
 		(stroke
@@ -6680,16 +6446,6 @@
 			(type default)
 		)
 		(uuid "e9b79aa3-41f1-4c48-b38a-1a207bfae185")
-	)
-	(wire
-		(pts
-			(xy 238.76 77.47) (xy 251.46 77.47)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ec33d99b-1ccc-47bd-9a4e-edda11e8c6b0")
 	)
 	(wire
 		(pts
@@ -6723,7 +6479,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 71.12) (xy 189.23 71.12)
+			(xy 196.85 71.12) (xy 201.93 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6803,7 +6559,7 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 111.76) (xy 233.68 111.76)
+			(xy 233.68 111.76) (xy 251.46 111.76)
 		)
 		(stroke
 			(width 0)
@@ -6831,16 +6587,6 @@
 		)
 		(uuid "f7d1fc5e-7e82-46fd-9c7c-985ffce6f185")
 	)
-	(wire
-		(pts
-			(xy 193.04 96.52) (xy 193.04 91.44)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f8e80af9-030e-4015-868b-dff3061d5135")
-	)
 	(polyline
 		(pts
 			(xy 17.78 53.34) (xy 17.78 135.89)
@@ -6853,7 +6599,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 114.3) (xy 233.68 114.3)
+			(xy 233.68 114.3) (xy 251.46 114.3)
 		)
 		(stroke
 			(width 0)
@@ -6993,6 +6739,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a982a149-db2c-493a-a490-50fe8d18c98d")
 		)
@@ -7060,6 +6815,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 64.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e1f23f26-57d3-40fa-84df-3a4bc9dff87a")
 		)
@@ -7077,7 +6841,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 184.15 66.04 0)
+		(at 196.85 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7085,7 +6849,7 @@
 		(dnp no)
 		(uuid "062d5b13-e88d-4faa-8126-57a0fbddbc1a")
 		(property "Reference" "C2"
-			(at 187.96 64.7699 0)
+			(at 200.66 64.7699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7094,7 +6858,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 187.96 67.3099 0)
+			(at 200.66 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7103,7 +6867,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 185.1152 69.85 0)
+			(at 197.8152 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7112,7 +6876,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 66.04 0)
+			(at 196.85 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7121,7 +6885,16 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 184.15 66.04 0)
+			(at 196.85 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 196.85 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7146,7 +6919,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 184.15 82.55 0)
+		(at 195.58 78.74 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7154,7 +6927,7 @@
 		(dnp no)
 		(uuid "091ca08d-5d15-4951-8ba7-b1be5877f989")
 		(property "Reference" "C3"
-			(at 178.816 77.978 0)
+			(at 192.024 75.184 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7163,7 +6936,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 178.816 80.518 0)
+			(at 197.358 80.01 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7172,7 +6945,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 185.1152 86.36 0)
+			(at 191.77 79.7052 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7181,7 +6954,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 184.15 82.55 0)
+			(at 195.58 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7190,7 +6963,16 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 184.15 82.55 0)
+			(at 195.58 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 195.58 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7257,6 +7039,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 95.25 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 95.25 115.57 0)
 			(effects
 				(font
@@ -7332,6 +7123,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 105.41 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "827a3571-9444-410b-b296-f0454a012829")
 		)
@@ -7391,6 +7191,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 74.93 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 74.93 107.95 0)
 			(effects
 				(font
@@ -7466,6 +7275,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e04b00e5-0ae0-45df-9b8f-32111f9c4a07")
 		)
@@ -7526,6 +7344,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 64.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 64.77 124.46 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7617,8 +7444,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Shielded")
-		(at 170.18 109.22 0)
-		(mirror y)
+		(at 185.42 96.52 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7626,7 +7453,7 @@
 		(dnp no)
 		(uuid "16e98d8a-41f2-4ac8-81e4-022f88b004d1")
 		(property "Reference" "SW4"
-			(at 170.18 104.14 0)
+			(at 180.34 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7634,7 +7461,7 @@
 			)
 		)
 		(property "Value" "BT2"
-			(at 170.18 101.6 0)
+			(at 180.086 94.742 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7642,7 +7469,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:TS24CA"
-			(at 170.18 104.14 0)
+			(at 180.34 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7651,7 +7478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 104.14 0)
+			(at 180.34 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7660,7 +7487,16 @@
 			)
 		)
 		(property "Description" "Generic push-button switch, two contact pins and shield pin(s)"
-			(at 170.18 109.22 0)
+			(at 185.42 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "TS24CAC393942"
+			(at 185.42 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7738,6 +7574,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 105.41 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c0f863bc-995b-4161-a294-14886a8f45b8")
 		)
@@ -7805,6 +7650,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 85.09 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ea3d9e2b-f7ce-49bf-ab6c-80d2f743be1b")
 		)
@@ -7864,6 +7718,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 115.57 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 115.57 85.09 0)
 			(effects
 				(font
@@ -7939,6 +7802,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "985cf002-b645-49ac-97b3-4efaf3a44d6a")
 		)
@@ -8006,6 +7878,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 74.93 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c462c52-4bf2-45df-8fc9-7d9c767da523")
 		)
@@ -8065,6 +7946,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 105.41 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 105.41 107.95 0)
 			(effects
 				(font
@@ -8207,6 +8097,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b4088fc3-e0d9-4794-93c9-08f36366bd02")
 		)
@@ -8224,7 +8123,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 163.83 114.3 0)
+		(at 185.42 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8233,7 +8132,7 @@
 		(fields_autoplaced yes)
 		(uuid "27666a12-97ae-4b2b-81ab-23b9f7536528")
 		(property "Reference" "#PWR014"
-			(at 163.83 120.65 0)
+			(at 185.42 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8242,7 +8141,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 163.83 119.38 0)
+			(at 185.42 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8251,7 +8150,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 114.3 0)
+			(at 185.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8260,7 +8159,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 114.3 0)
+			(at 185.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8269,7 +8168,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 163.83 114.3 0)
+			(at 185.42 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8333,6 +8232,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 105.41 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 105.41 100.33 0)
 			(effects
 				(font
@@ -8408,6 +8316,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 85.09 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20b04ff4-0085-479a-a1d3-98847a50d5d6")
 		)
@@ -8467,6 +8384,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 74.93 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 74.93 92.71 0)
 			(effects
 				(font
@@ -8542,6 +8468,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 64.77 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "67d284e7-0271-4399-bef2-26299b487c6a")
 		)
@@ -8609,6 +8544,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 186.69 31.75 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "4480f169-9774-4d58-a5ad-e962cb6fcd90")
 		)
@@ -8668,6 +8612,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 95.25 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 95.25 85.09 0)
 			(effects
 				(font
@@ -8823,17 +8776,17 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x04_Pin")
-		(at 256.54 114.3 0)
+		(at 256.54 111.76 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36b7f123-5222-401e-b534-6b2624f31109")
 		(property "Reference" "J3"
-			(at 257.81 114.2999 0)
+			(at 257.81 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8842,7 +8795,7 @@
 			)
 		)
 		(property "Value" "SWD"
-			(at 257.81 116.8399 0)
+			(at 257.81 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8851,7 +8804,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 256.54 114.3 0)
+			(at 256.54 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8860,7 +8813,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 256.54 114.3 0)
+			(at 256.54 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8869,7 +8822,16 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 256.54 114.3 0)
+			(at 256.54 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 256.54 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8950,6 +8912,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 95.25 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "51c59ff0-5452-4619-bfb7-d44076fa60ec")
 		)
@@ -8967,7 +8938,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 71.12 0)
+		(at 201.93 71.12 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8976,7 +8947,7 @@
 		(fields_autoplaced yes)
 		(uuid "375efb43-daff-4dbe-9d37-2a08936ca69f")
 		(property "Reference" "#PWR03"
-			(at 189.23 77.47 0)
+			(at 201.93 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8985,7 +8956,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 76.2 0)
+			(at 201.93 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8994,7 +8965,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 71.12 0)
+			(at 201.93 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9003,7 +8974,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 71.12 0)
+			(at 201.93 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9012,7 +8983,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 71.12 0)
+			(at 201.93 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9076,6 +9047,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 85.09 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 85.09 85.09 0)
 			(effects
 				(font
@@ -9151,6 +9131,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 72.39 121.92 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5830f4d4-35e7-4ebf-9e90-d092e57e08f4")
 		)
@@ -9168,7 +9157,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 250.19 120.65 0)
+		(at 250.19 118.11 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9177,7 +9166,7 @@
 		(fields_autoplaced yes)
 		(uuid "416e8930-8339-4e34-9569-aa4573ffad92")
 		(property "Reference" "#PWR011"
-			(at 250.19 127 0)
+			(at 250.19 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9186,7 +9175,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 250.19 125.73 0)
+			(at 250.19 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9195,7 +9184,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 120.65 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9204,7 +9193,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 120.65 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9213,7 +9202,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 250.19 120.65 0)
+			(at 250.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9302,7 +9291,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 195.58 66.04 0)
+		(at 208.28 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9310,7 +9299,7 @@
 		(dnp no)
 		(uuid "43a33c91-4a0c-45ee-8081-d86601b9ee50")
 		(property "Reference" "C1"
-			(at 199.39 64.77 0)
+			(at 212.09 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9319,7 +9308,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 199.39 67.3099 0)
+			(at 212.09 67.3099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9328,7 +9317,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 196.5452 69.85 0)
+			(at 209.2452 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9337,7 +9326,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 195.58 66.04 0)
+			(at 208.28 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9346,7 +9335,16 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 195.58 66.04 0)
+			(at 208.28 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 208.28 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9413,6 +9411,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 44.45 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 44.45 107.95 0)
 			(effects
 				(font
@@ -9490,6 +9497,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 180.34 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "60f01726-1405-412c-9bb4-61f68f8e331f")
 		)
@@ -9549,6 +9565,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 44.45 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 44.45 92.71 0)
 			(effects
 				(font
@@ -9627,6 +9652,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 219.71 21.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
@@ -9680,6 +9714,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 54.61 69.85 0)
 			(effects
 				(font
@@ -9755,6 +9798,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c433aa4d-49e6-42b6-b20f-aeba82cdc37a")
 		)
@@ -9815,6 +9867,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 78.74 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 78.74 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9906,7 +9967,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 189.23 88.9 0)
+		(at 189.23 85.09 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9915,7 +9976,7 @@
 		(fields_autoplaced yes)
 		(uuid "59402162-c0c6-413a-9d36-9aac92142357")
 		(property "Reference" "#PWR05"
-			(at 189.23 95.25 0)
+			(at 189.23 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9924,7 +9985,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 189.23 93.98 0)
+			(at 189.23 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9933,7 +9994,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 189.23 88.9 0)
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9942,7 +10003,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 88.9 0)
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9951,7 +10012,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 189.23 88.9 0)
+			(at 189.23 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10015,6 +10076,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 105.41 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 105.41 92.71 0)
 			(effects
 				(font
@@ -10090,6 +10160,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 105.41 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e4870a59-c94a-4849-bf57-726fa71aeaef")
 		)
@@ -10107,7 +10186,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 163.83 100.33 0)
+		(at 171.45 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10116,7 +10195,7 @@
 		(fields_autoplaced yes)
 		(uuid "5fe67bf1-cebf-407c-b88a-5d39c656eb88")
 		(property "Reference" "#PWR015"
-			(at 163.83 106.68 0)
+			(at 171.45 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10125,7 +10204,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 163.83 105.41 0)
+			(at 171.45 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10134,7 +10213,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 163.83 100.33 0)
+			(at 171.45 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10143,7 +10222,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 163.83 100.33 0)
+			(at 171.45 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10152,7 +10231,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 163.83 100.33 0)
+			(at 171.45 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10224,6 +10303,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3203d0d7-65d2-4e88-bab9-cacc7b7aaaa4")
 		)
@@ -10283,6 +10371,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 95.25 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 95.25 77.47 0)
 			(effects
 				(font
@@ -10425,6 +10522,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 64.77 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "286a29eb-6200-4d0c-ba67-443922296733")
 		)
@@ -10492,6 +10598,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 74.93 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "01d58f6b-a2b1-4be7-8b41-ae2ca247afcf")
 		)
@@ -10512,7 +10627,7 @@
 		(at 152.4 30.48 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e57128e-6d36-4bab-960d-279097895aa7")
@@ -10553,6 +10668,15 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
+			(at 152.4 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
 			(at 152.4 30.48 0)
 			(effects
 				(font
@@ -10628,6 +10752,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 44.45 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9a56a4d7-5bec-4864-8454-0320c7751354")
 		)
@@ -10687,6 +10820,15 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
+			(at 167.64 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "MSK12C02"
 			(at 167.64 26.67 0)
 			(effects
 				(font
@@ -10765,6 +10907,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 95.25 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ceb43c44-c3a2-4b3b-a458-63270e43cbd6")
 		)
@@ -10786,7 +10937,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "79a640ee-1746-484b-b493-aab2014ea32b")
@@ -10827,6 +10978,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
+			(at 25.4 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
 			(at 25.4 87.63 0)
 			(effects
 				(font
@@ -10920,6 +11080,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e9a7c341-49e2-4a17-97b0-f0ac57bbc604")
 		)
@@ -10979,6 +11148,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 54.61 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 54.61 100.33 0)
 			(effects
 				(font
@@ -11054,6 +11232,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 104.14 124.46 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "347f7f6f-5db0-473b-8878-fbf019aaf711")
 		)
@@ -11121,6 +11308,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 53.34 127 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "02db1f2c-f823-4b20-8d94-1ef18baa9813")
 		)
@@ -11180,6 +11376,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 85.09 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 85.09 100.33 0)
 			(effects
 				(font
@@ -11255,6 +11460,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 44.45 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ca674ecc-a0a7-49c2-a315-694786aa260c")
 		)
@@ -11322,6 +11536,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 74.93 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f68a6889-127c-43c2-a9ef-58826443c46d")
 		)
@@ -11381,6 +11604,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 115.57 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 115.57 69.85 0)
 			(effects
 				(font
@@ -11586,6 +11818,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 44.45 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91e096fd-bdad-4272-bcb8-5df49a3fff6d")
 		)
@@ -11645,6 +11886,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 74.93 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 74.93 62.23 0)
 			(effects
 				(font
@@ -11720,6 +11970,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 74.93 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2abced51-9f92-4b9c-be76-7e0baffdac1a")
 		)
@@ -11787,6 +12046,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 95.25 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0bf7d4ff-fb5a-4a60-8052-de6b999abe40")
 		)
@@ -11804,7 +12072,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 250.19 110.49 0)
+		(at 250.19 107.95 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11812,7 +12080,7 @@
 		(dnp no)
 		(uuid "9a631d83-3cc6-4e6a-882b-1658f855ddf3")
 		(property "Reference" "#PWR010"
-			(at 250.19 114.3 0)
+			(at 250.19 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11821,7 +12089,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 250.19 105.41 0)
+			(at 253.492 105.918 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11829,7 +12097,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 250.19 110.49 0)
+			(at 250.19 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11838,7 +12106,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 250.19 110.49 0)
+			(at 250.19 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11847,7 +12115,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 250.19 110.49 0)
+			(at 250.19 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11919,6 +12187,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 44.45 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ed26666-f055-4733-b3d0-1abe96059562")
 		)
@@ -11978,6 +12255,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 64.77 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 64.77 69.85 0)
 			(effects
 				(font
@@ -12054,6 +12340,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 190.5 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "aa24c170-ebe9-46b2-a69e-76e2db41af29")
 		)
@@ -12121,6 +12416,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 105.41 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "a3aa0747-e408-458b-8c97-fbbc2571c51a")
 		)
@@ -12138,16 +12442,16 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x08_Pin")
-		(at 256.54 85.09 0)
+		(at 240.03 86.36 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a3f8336e-7277-44f4-bcaa-e01f71125684")
 		(property "Reference" "J1"
-			(at 257.81 87.6301 0)
+			(at 241.3 88.9001 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12156,7 +12460,7 @@
 			)
 		)
 		(property "Value" "FILAS"
-			(at 257.81 85.0901 0)
+			(at 241.3 86.3601 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12165,7 +12469,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical"
-			(at 256.54 85.09 0)
+			(at 240.03 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12174,7 +12478,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 256.54 85.09 0)
+			(at 240.03 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12183,7 +12487,16 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
-			(at 256.54 85.09 0)
+			(at 240.03 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 240.03 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12276,6 +12589,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1d7291a0-d162-47ca-9bb9-e85a59111db9")
 		)
@@ -12299,7 +12621,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a7bcaeb0-24e7-4566-ad52-d899ca67c362")
 		(property "Reference" "#FLG01"
 			(at 220.98 67.945 0)
@@ -12311,7 +12632,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 220.98 64.77 0)
+			(at 226.314 69.596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12409,6 +12730,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 64.77 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dd1ed811-ef87-40ee-b1a8-29c2a8b3e6a7")
 		)
@@ -12429,12 +12759,12 @@
 		(at 196.85 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b22ec294-a6df-48aa-bc7d-b0af327e13f2")
 		(property "Reference" "J2"
-			(at 195.58 106.6801 0)
+			(at 202.946 95.504 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12443,7 +12773,7 @@
 			)
 		)
 		(property "Value" "COLUMNAS"
-			(at 195.58 104.1401 0)
+			(at 194.818 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12470,6 +12800,15 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
+			(at 196.85 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
 			(at 196.85 104.14 0)
 			(effects
 				(font
@@ -12563,6 +12902,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 93.98 123.19 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0251a061-6fd7-4773-ad50-67dd3634b854")
 		)
@@ -12622,6 +12970,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 44.45 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 44.45 115.57 0)
 			(effects
 				(font
@@ -12697,6 +13054,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "20ac9ef7-9560-4c1f-b610-862468dafc0e")
 		)
@@ -12756,6 +13122,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 64.77 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 64.77 115.57 0)
 			(effects
 				(font
@@ -12831,6 +13206,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 105.41 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "665c3a1d-f96b-4524-a064-f4070e89a0e5")
 		)
@@ -12890,6 +13274,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 85.09 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 85.09 107.95 0)
 			(effects
 				(font
@@ -12965,6 +13358,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 95.25 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "28e944e8-0b47-4cc8-9dee-f3ed25775d98")
 		)
@@ -13032,6 +13434,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 85.09 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "936a1e75-47df-43fe-89f9-51fe8506c81a")
 		)
@@ -13053,7 +13464,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ca716896-fc25-4aa0-9b0b-08dac13bb912")
@@ -13095,6 +13506,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x08, script generated"
 			(at 81.28 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 81.28 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13187,6 +13607,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 64.77 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d789412d-dc1d-439c-ae84-a83e2c91488a")
 		)
@@ -13247,6 +13676,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 114.3 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 114.3 127 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13324,6 +13762,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 219.71 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "matrixdisplay"
 				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
@@ -13377,6 +13824,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 64.77 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 64.77 85.09 0)
 			(effects
 				(font
@@ -13452,6 +13908,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 74.93 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b5dbd38a-8c63-4a68-b3ad-7b306b7f73db")
 		)
@@ -13515,6 +13980,15 @@
 			)
 		)
 		(property "Description" "STMicroelectronics Arm Cortex-M0 MCU, 64KB flash, 8KB RAM, 48 MHz, 2.0-3.6V, 27 GPIO, UFQFPN32"
+			(at 218.44 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
 			(at 218.44 99.06 0)
 			(effects
 				(font
@@ -13683,6 +14157,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 115.57 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "95b38d08-62db-4b6a-ac47-b0dcaa54b03f")
 		)
@@ -13742,6 +14225,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 85.09 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 85.09 77.47 0)
 			(effects
 				(font
@@ -13817,6 +14309,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 85.09 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d74a0538-5cfc-41a8-90ff-a9c92fea9c6b")
 		)
@@ -13884,6 +14385,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14cd5eb6-6893-4d4f-ae0e-687bff1be7c3")
 		)
@@ -13901,8 +14411,8 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_Shielded")
-		(at 170.18 95.25 0)
-		(mirror y)
+		(at 171.45 96.52 90)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13910,7 +14420,7 @@
 		(dnp no)
 		(uuid "e5c1df3b-fbae-497c-aff8-e2d8c86048ef")
 		(property "Reference" "SW3"
-			(at 170.18 90.17 0)
+			(at 166.37 96.774 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13918,7 +14428,7 @@
 			)
 		)
 		(property "Value" "BT1"
-			(at 170.18 87.63 0)
+			(at 166.116 94.996 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13926,7 +14436,7 @@
 			)
 		)
 		(property "Footprint" "SamacSys_Parts:TS24CA"
-			(at 170.18 90.17 0)
+			(at 166.37 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13935,7 +14445,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 170.18 90.17 0)
+			(at 166.37 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13944,7 +14454,16 @@
 			)
 		)
 		(property "Description" "Generic push-button switch, two contact pins and shield pin(s)"
-			(at 170.18 95.25 0)
+			(at 171.45 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "TS24CAC393942"
+			(at 171.45 96.52 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14022,6 +14541,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 44.45 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "803377b6-60b6-4204-979e-9b39360abb38")
 		)
@@ -14081,6 +14609,15 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
+			(at 85.09 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
 			(at 85.09 62.23 0)
 			(effects
 				(font
@@ -14156,6 +14693,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 54.61 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "762a30cc-c05e-4c65-8f98-0eabe94d1d2e")
 		)
@@ -14223,6 +14769,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
+			(at 95.25 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d825f72c-b65b-4739-8a8f-06e428bb128e")
 		)
@@ -14244,7 +14799,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -14294,6 +14849,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part #" ""
+			(at 269.24 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b3a9276-bc7d-4c00-9063-7c7ece5b8ede")
 		)
@@ -14310,73 +14874,6 @@
 			(project "matrixdisplay"
 				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
 					(reference "J4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 184.15 88.9 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "faa7ff25-6cd0-4c3b-967e-deea1224fc7b")
-		(property "Reference" "#PWR04"
-			(at 184.15 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 184.15 93.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 184.15 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 184.15 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 184.15 88.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "15df736c-0425-41bf-95db-beaa8e427c4d")
-		)
-		(instances
-			(project "matrixdisplay"
-				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
-					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -14427,6 +14924,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 194.31 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 194.31 83.82 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14494,6 +15000,15 @@
 		)
 		(property "Description" "Resistor"
 			(at 184.15 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part #" ""
+			(at 184.15 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
