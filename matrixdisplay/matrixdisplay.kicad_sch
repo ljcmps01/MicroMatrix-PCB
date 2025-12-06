@@ -2890,8 +2890,8 @@
 		(uuid 67d8668e-49a9-4a27-9054-c1cfd217f415)
 	)
 	(rectangle
-		(start 148.59 16.51)
-		(end 194.31 41.91)
+		(start 148.59 27.94)
+		(end 194.31 53.34)
 		(stroke
 			(width 0)
 			(type dash)
@@ -2901,9 +2901,9 @@
 		)
 		(uuid db1f1c69-54cd-4751-8354-8380b1f736a0)
 	)
-	(text "(CR2032)"
+	(text "(CR2450)"
 		(exclude_from_sim no)
-		(at 159.258 18.034 0)
+		(at 159.512 29.972 0)
 		(effects
 			(font
 				(size 1.016 1.016)
@@ -2987,9 +2987,9 @@
 		)
 		(uuid "9a580f4a-f5ef-488d-a076-3571efa2e250")
 	)
-	(text "Pensado para usar una pila 2032 con un led de encendido"
+	(text "Pensado para usar una pila 2450"
 		(exclude_from_sim no)
-		(at 177.292 43.688 0)
+		(at 165.608 52.07 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3009,7 +3009,7 @@
 	)
 	(text "POWER"
 		(exclude_from_sim no)
-		(at 152.146 18.034 0)
+		(at 152.4 29.972 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3494,12 +3494,6 @@
 		(uuid "a2af8d5e-f044-45c4-98b3-acd944c5f2fa")
 	)
 	(junction
-		(at 173.99 26.67)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a8ebed7c-14a6-413d-9ea5-8049028cf43f")
-	)
-	(junction
 		(at 50.8 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3740,7 +3734,7 @@
 		(uuid "ffac8e63-959b-4956-9e83-29d79f1b930e")
 	)
 	(no_connect
-		(at 162.56 29.21)
+		(at 171.45 40.64)
 		(uuid "39f54998-e5f2-4245-979b-05ff9513f185")
 	)
 	(no_connect
@@ -4519,7 +4513,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 22.86) (xy 173.99 26.67)
+			(xy 182.88 34.29) (xy 182.88 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4599,7 +4593,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 26.67) (xy 172.72 26.67)
+			(xy 182.88 38.1) (xy 181.61 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4819,16 +4813,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 35.56) (xy 186.69 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "604d1da2-56f7-41b6-8745-13690725b27b")
-	)
-	(wire
-		(pts
 			(xy 91.44 81.28) (xy 91.44 85.09)
 		)
 		(stroke
@@ -4899,16 +4883,6 @@
 	)
 	(wire
 		(pts
-			(xy 186.69 27.94) (xy 186.69 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65c6f849-0b42-4320-a180-28e99392fd6c")
-	)
-	(wire
-		(pts
 			(xy 35.56 62.23) (xy 40.64 62.23)
 		)
 		(stroke
@@ -4916,16 +4890,6 @@
 			(type default)
 		)
 		(uuid "65f8c9c5-5337-424e-a01b-f9e37c595515")
-	)
-	(wire
-		(pts
-			(xy 186.69 26.67) (xy 184.15 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "665155de-97a2-45d1-a170-30a2b550ca6e")
 	)
 	(wire
 		(pts
@@ -5016,16 +4980,6 @@
 			(type default)
 		)
 		(uuid "71a7744f-538c-4a0b-b31c-11b2ae13a520")
-	)
-	(wire
-		(pts
-			(xy 173.99 26.67) (xy 176.53 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71b3a7f6-de34-40d2-8fc5-d2e7321e1b9e")
 	)
 	(wire
 		(pts
@@ -5199,7 +5153,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 36.83) (xy 152.4 33.02)
+			(xy 161.29 45.72) (xy 161.29 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5779,7 +5733,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 24.13) (xy 162.56 24.13)
+			(xy 161.29 35.56) (xy 171.45 35.56)
 		)
 		(stroke
 			(width 0)
@@ -6649,7 +6603,7 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 24.13) (xy 152.4 25.4)
+			(xy 161.29 35.56) (xy 161.29 36.83)
 		)
 		(stroke
 			(width 0)
@@ -8493,82 +8447,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R")
-		(at 186.69 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "2e0b4fa5-e279-4309-9240-291ac9ab5f2e")
-		(property "Reference" "R2"
-			(at 184.658 33.02 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "220"
-			(at 188.976 29.972 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 184.912 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 186.69 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor"
-			(at 186.69 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part #" ""
-			(at 186.69 31.75 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "4480f169-9774-4d58-a5ad-e962cb6fcd90")
-		)
-		(pin "1"
-			(uuid "0a35ca42-06fa-41c4-a393-8f7bea63bf91")
-		)
-		(instances
-			(project "matrixdisplay"
-				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
-					(reference "R2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 95.25 85.09 180)
 		(unit 1)
@@ -8711,7 +8589,7 @@
 	)
 	(symbol
 		(lib_id "power:+3.3V")
-		(at 173.99 22.86 0)
+		(at 182.88 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8719,7 +8597,7 @@
 		(dnp no)
 		(uuid "32c2fb23-95bd-4f09-885a-b7b397ad58c9")
 		(property "Reference" "#PWR08"
-			(at 173.99 26.67 0)
+			(at 182.88 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8728,7 +8606,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 173.99 17.78 0)
+			(at 182.88 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8736,7 +8614,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 173.99 22.86 0)
+			(at 182.88 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8745,7 +8623,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 173.99 22.86 0)
+			(at 182.88 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8754,7 +8632,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
-			(at 173.99 22.86 0)
+			(at 182.88 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9445,84 +9323,6 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 180.34 26.67 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "47373e04-225c-4f80-932b-8e57c7e91ebb")
-		(property "Reference" "D1"
-			(at 181.9275 20.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "LED"
-			(at 181.9275 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
-			(at 180.34 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 180.34 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Light emitting diode"
-			(at 180.34 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part #" "BL-HJC36G-AV-TRB "
-			(at 180.34 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "60f01726-1405-412c-9bb4-61f68f8e331f")
-		)
-		(pin "2"
-			(uuid "02667fa6-258b-48c5-834c-9ed4ec5df387")
-		)
-		(instances
-			(project ""
-				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
 		(at 44.45 92.71 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9900,7 +9700,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 152.4 36.83 0)
+		(at 161.29 45.72 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9909,7 +9709,7 @@
 		(fields_autoplaced yes)
 		(uuid "5475de37-bfbe-4e53-a781-976dac2a0ff2")
 		(property "Reference" "#PWR07"
-			(at 152.4 43.18 0)
+			(at 161.29 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9918,7 +9718,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 152.4 41.91 0)
+			(at 161.29 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9927,7 +9727,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 152.4 36.83 0)
+			(at 161.29 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9936,7 +9736,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 152.4 36.83 0)
+			(at 161.29 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9945,7 +9745,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 152.4 36.83 0)
+			(at 161.29 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10404,73 +10204,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 186.69 36.83 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6962d20e-46e6-4053-86eb-e79af47e8ba0")
-		(property "Reference" "#PWR013"
-			(at 186.69 43.18 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 186.69 41.91 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 186.69 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 186.69 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 186.69 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dd18e5c5-ad19-4922-ab05-d397a63d4270")
-		)
-		(instances
-			(project "matrixdisplay"
-				(path "/792c94ff-3d31-4c50-a0f4-1b07a6203609"
-					(reference "#PWR013")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
 		(at 64.77 100.33 180)
 		(unit 1)
@@ -10624,7 +10357,7 @@
 	)
 	(symbol
 		(lib_id "Device:Battery_Cell")
-		(at 152.4 30.48 0)
+		(at 161.29 41.91 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -10632,7 +10365,7 @@
 		(dnp no)
 		(uuid "6e57128e-6d36-4bab-960d-279097895aa7")
 		(property "Reference" "BT1"
-			(at 156.21 27.3684 0)
+			(at 165.1 38.7984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10641,7 +10374,7 @@
 			)
 		)
 		(property "Value" "CR2450"
-			(at 152.908 32.258 0)
+			(at 161.798 43.688 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10650,7 +10383,7 @@
 			)
 		)
 		(property "Footprint" "Battery:BatteryHolder_ComfortableElectronic_CH273-2450_1x2450"
-			(at 152.4 28.956 90)
+			(at 161.29 40.386 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10659,7 +10392,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 28.956 90)
+			(at 161.29 40.386 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10668,7 +10401,7 @@
 			)
 		)
 		(property "Description" "Single-cell battery"
-			(at 152.4 30.48 0)
+			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10677,7 +10410,7 @@
 			)
 		)
 		(property "Manufacturer Part #" ""
-			(at 152.4 30.48 0)
+			(at 161.29 41.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10778,7 +10511,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 167.64 26.67 180)
+		(at 176.53 38.1 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10786,7 +10519,7 @@
 		(dnp no)
 		(uuid "763c3949-0764-49b3-be35-966fc4c463ff")
 		(property "Reference" "SW2"
-			(at 167.64 31.75 0)
+			(at 176.53 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10794,7 +10527,7 @@
 			)
 		)
 		(property "Value" "P_ON"
-			(at 167.64 34.29 0)
+			(at 176.53 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10802,7 +10535,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPDT_PCM12"
-			(at 167.64 26.67 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10811,7 +10544,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 19.05 0)
+			(at 176.53 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10820,7 +10553,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 167.64 26.67 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10829,7 +10562,7 @@
 			)
 		)
 		(property "Manufacturer Part #" "MSK12C02"
-			(at 167.64 26.67 0)
+			(at 176.53 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
