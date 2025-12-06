@@ -10640,7 +10640,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "CR2032"
+		(property "Value" "CR2450"
 			(at 152.908 32.258 0)
 			(effects
 				(font
@@ -10649,7 +10649,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Battery:BatteryHolder_MYOUNG_BS-07-A1BJ001_CR2032"
+		(property "Footprint" "Battery:BatteryHolder_ComfortableElectronic_CH273-2450_1x2450"
 			(at 152.4 28.956 90)
 			(effects
 				(font
