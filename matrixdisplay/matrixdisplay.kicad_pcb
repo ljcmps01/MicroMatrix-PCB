@@ -21774,6 +21774,17 @@
 				(xyz 0 0 0)
 			)
 		)
+		(model "${KIPRJMOD}/EasyEDA.3dshapes/BAT-TH_BS-24-A1AJ013.step"
+			(offset
+				(xyz 13.25 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -0 -0 -180)
+			)
+		)
 	)
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical"
 		(layer "B.Cu")
