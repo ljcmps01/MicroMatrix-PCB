@@ -89,8 +89,8 @@
         "item_on_disabled_layer": "error",
         "items_not_allowed": "error",
         "length_out_of_range": "error",
-        "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_issues": "ignore",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",
@@ -724,10 +724,10 @@
     ]
   ],
   "text_variables": {
-    "BRANCH": "master",
-    "BUILD_DATE": "2025-12-04",
+    "BRANCH": "cr2450",
+    "BUILD_DATE": "2025-12-08",
     "STATUS": "dirty",
     "TITLE": "MicroMatrix",
-    "VERSION": "v0.1"
+    "VERSION": "v0.1.5"
   }
 }
